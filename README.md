@@ -10,9 +10,13 @@ I love building RAG pipelines, predictive models, and multi-agent systems that t
 ### 👨‍💻 About Me
 
 - 🎓 MS in Information Systems @ NJIT (Dec 2026)
-- 💼 AI Engineer @ UnitedHealth Group (2026) — healthcare data, analytics, and applied ML
-- 🌱 Building a portfolio of end-to-end ML, RAG, and AI-agent projects — six linked below, each with real tests and real output screenshots
+- 💼 AI Engineer @ UnitedHealth Group
+- 💻 Part-time IT Support Specialist @ NJIT
+- 🏥 Focused on healthcare data and applied machine learning
+- 🤖 Building a portfolio of end-to-end ML, RAG, and AI-agent projects
+- 🧪 Six projects linked below, each with real tests and real output screenshots
 - 🎯 Open to Data Analyst & AI Engineer roles
+- 💬 Ask me about healthcare analytics, predictive modeling, or RAG pipelines
 
 ---
 
@@ -60,7 +64,7 @@ I love building RAG pipelines, predictive models, and multi-agent systems that t
 | 🏥 [**Patient Churn Prediction**](https://github.com/manudhannayak/patient-churn-prediction) | Predicts patient disengagement from care using utilization & engagement data, with SHAP explainability | Python, Scikit-learn, XGBoost, SHAP |
 | 📅 [**Study Planner AI**](https://github.com/manudhannayak/study-planner-ai) | Syncs Canvas LMS assignments and auto-generates a daily study schedule | Python, Streamlit, Canvas LMS API |
 | 📄 [**Clinical Report Summarizer**](https://github.com/manudhannayak/clinical-report-summarizer) | RAG pipeline that retrieves relevant context from clinical reports and generates concise summaries | LangChain, FAISS, Streamlit |
-| 🏠 [**Property Maintenance AI Agent**](https://github.com/manudhannayak/property-maintenance-agent) | Automation agent that handles maintenance requests end-to-end — messaging, scheduling, data storage | n8n, Gemini API, Twilio, Python |
+| 🏠 [**Property Maintenance AI Agent**](https://github.com/manudhannayak/property-maintenance-agent) | Automation agent that handles maintenance requests end-to-end: messaging, scheduling, data storage | n8n, Gemini API, Twilio, Python |
 | 🗄️ [**Multi-Source Unified Data Warehouse**](https://github.com/manudhannayak/unified-data-warehouse) | Consolidates data from multiple source systems into a single warehouse with tested transformation pipelines | Snowflake, dbt, Airflow, SQL |
 | 🩺 [**Multi-Agent Prior Authorization Assistant**](https://github.com/manudhannayak/prior-auth-assistant) | Multi-agent system that extracts patient/procedure details, checks payer rules, and drafts approval requests | LangGraph, OpenAI API, Claude API |
 
