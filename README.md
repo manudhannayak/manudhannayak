@@ -35,7 +35,7 @@ I love building RAG pipelines, predictive models, and multi-agent systems that t
 
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-006400?style=flat-square)
-![SHAP](https://img.shields.io/badge/-SHAP-6A3D9A?style=flat-square)
+![SHAP](https://img.shields.io/badge/-SHAP-purple?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
@@ -45,7 +45,7 @@ I love building RAG pipelines, predictive models, and multi-agent systems that t
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-0078D4?style=flat-square)
 
 **Databases & Cloud**
