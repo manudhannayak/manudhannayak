@@ -67,9 +67,3 @@ I love building RAG pipelines, predictive models, and multi-agent systems that t
 | 🏠 [**Property Maintenance AI Agent**](https://github.com/manudhannayak/property-maintenance-agent) | Automation agent that handles maintenance requests end-to-end: messaging, scheduling, data storage | n8n, Gemini API, Twilio, Python |
 | 🗄️ [**Multi-Source Unified Data Warehouse**](https://github.com/manudhannayak/unified-data-warehouse) | Consolidates data from multiple source systems into a single warehouse with tested transformation pipelines | Snowflake, dbt, Airflow, SQL |
 | 🩺 [**Multi-Agent Prior Authorization Assistant**](https://github.com/manudhannayak/prior-auth-assistant) | Multi-agent system that extracts patient/procedure details, checks payer rules, and drafts approval requests | LangGraph, OpenAI API, Claude API |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manudhannayak&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
-</p>
