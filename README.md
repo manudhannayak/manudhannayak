@@ -11,8 +11,6 @@ I love building RAG pipelines, predictive models, and multi-agent systems that t
 
 - 🎓 MS in Information Systems @ NJIT (Dec 2026)
 - 💼 AI Engineer @ UnitedHealth Group (2026) — healthcare data, analytics, and applied ML
-- 🏥 Prior experience at Optum and Cigna Healthcare — claims data, patient utilization, predictive modeling
-- 🔬 Graduate Research Assistant, NJIT PID Lab
 - 🌱 Building a portfolio of end-to-end ML, RAG, and AI-agent projects — six linked below, each with real tests and real output screenshots
 - 🎯 Open to Data Analyst & AI Engineer roles
 
